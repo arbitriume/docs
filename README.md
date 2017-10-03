@@ -64,6 +64,7 @@
   * Libraries for this out there
 * Ops job to archived information
   * Inactive/non-subscribed users after a threshold
+* Ops job for sending out confirmation emails when a new user joins  
 * Payment Processing
   * How do we get it?
   * Where does it go?
