@@ -35,6 +35,7 @@
   * What's going on today?
   * What's trending?
   * What's popular?
+  * What do you like?
 3. Search for and select 
   * Brewery
 4. Dropped onto Brewery summary page
@@ -56,6 +57,8 @@
   
 ## Other Things
 * How to verify brewers
+* Selecting which types of beer you like:
+    * IPAs, Stouts, Breweries, etc
 
 ## Things we need to build
 * Script/Crawler to grab data from these websites
