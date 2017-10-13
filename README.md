@@ -35,6 +35,7 @@
   * What's going on today?
   * What's trending?
   * What's popular?
+  * What do you like?
 3. Search for and select 
   * Brewery
 4. Dropped onto Brewery summary page
@@ -56,6 +57,8 @@
   
 ## Other Things
 * How to verify brewers
+* Selecting which types of beer you like:
+    * IPAs, Stouts, Breweries, etc
 
 ## Things we need to build
 * Script/Crawler to grab data from these websites
@@ -64,6 +67,7 @@
   * Libraries for this out there
 * Ops job to archived information
   * Inactive/non-subscribed users after a threshold
+* Ops job for sending out confirmation emails when a new user joins  
 * Payment Processing
   * How do we get it?
   * Where does it go?
